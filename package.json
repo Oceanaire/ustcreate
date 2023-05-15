@@ -1,0 +1,8 @@
+{
+  "name": "ustcreate",
+  "version": "1.0.0",
+  "author": "Optigen",
+  "private": true,
+  "main": "index.js",
+  "license": "Apache 2.0"
+}
